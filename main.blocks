@@ -1,1 +1,37 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="QXTpIW6TmWR=E.Z`JFVE" x="20" y="20"/><block type="device_forever" id="IwxSh%|Y4/[hxwkHikVV" x="225" y="20"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="IwxSh%|Y4/[hxwkHikVV" x="205" y="0"><statement name="HANDLER"><block type="controls_if" id="wEo4lFe}.[WU5gN;GVJ7"><mutation elseif="4" else="1"/><value name="IF0"><shadow type="logic_boolean" id="Bg?DmZ@246u-eBs#|nsQ"><field name="BOOL">TRUE</field></shadow><block type="logic_compare" id="w!)iaT($~shj?tdeiI:l"><field name="OP">EQ</field><value name="A"><shadow type="math_number" id=",6@g=k8O/FZ@8R}^jdoY"><field name="NUM">0</field></shadow></value><value name="B"><shadow type="math_number" id=";#icKn_o0sA`(6j*PWz:"><field name="NUM">0</field></shadow></value></block></value><statement name="DO0"><block type="device_show_leds" id="s.Keu*Pp4I!bT?[SZ$%y"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field></block></statement><statement name="DO1"><block type="device_show_leds" id="#}KY`6/?)*Pq(:bXDqf_"><field name="LEDS">`
+        . . . . . 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field></block></statement><statement name="DO2"><block type="device_show_leds" id="`Eg_-eEHj4L.k6Hp+jG5"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field></block></statement><statement name="DO3"><block type="device_show_leds" id="#ao`Ev`wz#`j({w(5^u)"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        # # # # # 
+        # # # # #
+        `</field></block></statement><statement name="DO4"><block type="device_show_leds" id="ksM.34ZQ=rX7B,xIr_7="><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        # # # # #
+        `</field></block></statement><statement name="ELSE"><block type="device_show_leds" id="`cXrozSK9ejIIolNq43]"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block></statement></block></xml>
